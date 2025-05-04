@@ -1,0 +1,51 @@
+name,brand,imageUrl,price,category,sub_category,type,stock,unit,discount
+Chawal,Parle,parle_chawal.png,50,Chawal,Chawal,Pack,1,5 Kg,0
+Maggi Atta,Aashirvaad,aashirvaad_maggi_atta.png,32,Atta,Wheat flour,Pack,10,packet,0
+Paneer,Amul,amul_paneer.png,140,Dairy,Paneer,Pack,4,500 gm,10
+Ragi,SDS,amul_ragi,210,Atta,Atta,Pack,2,500g,0
+Cookie,Kraft,kraft_cookie.png,100,Snacks,Jagdariya,Pack,15,Packet,0
+Ghee,Sunsun,sunsun_ghee.png,140,Dairy,Ghee,Pack,24,packet,0
+Rice,Premium,premium_rice,100,Grains,Rice,Pack,6,packet,0
+Paneer,Amul,amul_paneer.png,300,Dairy,Paneer,Bottle,8,packet,0
+White Chawal,SDS,sds_white_chawal.png,18,Dairy,Ghee,Pack,6,500 gm,0
+Paneer,Amul,amul_paneer,150,Dairy,Paneer,Pack,12,Packet,0
+Gur,Patanjali,patanjali_gur.png,100,Sweet,Jaggery,Pack,12,packet,0
+Cheddar cheese,Amul,amul_cheddar_cheese.png,240,cheese,cheddar,Pack,1,Pack,0
+Paneer,Amul,amul_paneer.png,115,Dairy,Paneer/Cottage Cheese,Pack,12,500 gram,0
+Maida,Britannia,britannia_maida.png,60,Atta,Atta,Pack,1,500g,0
+Paneer,Patanjali,patanjali_paneer.png,30,Dairy,Panner,Pack,60,packet,0
+Coconut oil,NIL,patanjali_coconut oil.png,120,Oil,Tail,Bottle,5,Bottle,0
+kheer,Nestle,nestle_kheer.png,170,Dairy,dairy,Bottle,5,bottle,0
+Tomato Ketchup,MAYO,mayo_tomato_ketchup.png,200,Dairy,Tomato Ketchup,Bottle,6,packet,0
+Paneer,Amul,amul_paneer.png,75,Dairy,Paneer,Pack,10,Packet,0
+Maggi Noodles,Maggi,maggi_noodles.png,30,Snacks,Maggi Maggi Flavoured Noodles,Pack,22,packet,0
+Potato,SS,ss_aloo.png,20,Staples,Aloo,Pack,50,500gm,0
+Maggi,Maggi,maggi_maggi,20,Snacks,Snacks,Loosed,3,packet,0
+Paneer,Amul,amul_paneer.png,130,Dairy,Paneer,Pack,20,500 g,0
+Papad,Amul,amul_papad,120,Snacks,Papad,Pack,10,Packet,0
+Gulab Jamun (Hinglish),Sev,amul_gulab_jamun.png,140,Snacks,Sweet Snacks,Pack,10,pack,0
+Bhujia,"[17, 'Sona']",sona_bhujia.png,100,Snacks,Chana,Pack,5,Packet,0
+Masala Oats,DS,ds_masala_oats.png,190,Dairy,Oats Masala,Pack,10,packet,0
+Roti,Britannia,britannia_roti.jpg,120,Atta,Atta,Pack,25,pack,0
+Chawal,SDS,sds_chawal.png,25,Chawal,White,Pack,50,kg,0
+Paneer,Amul,amul_paneer.png,110,Dairy,Paneer,Bottle,12,500 g,0
+Dahi,Amul,amul_dahi.png,48,Dairy,dahi,Pack,12,500g,0
+Potato,None,none_potato.png,200,Veggies,Alu,Loose,100,kg,0
+Soybean Flour,None,none_soybean_flour.png,150,Dal,Soja,Pack,25,500gm,0
+Gur-Jaggery/Garo,DS,ds_gur-jaggery,90,Atta,Atta,Pack,10,kg,0
+Paneer,Nandini,nandini_paneer.png,110,Dairy,Paneer,Pack,12,1kg,0
+Kala Chana,Sundrop,sundrop_kala_chana.png,75,Dal,Kala Chana,Pack,2,Pack,0
+Paneer,Amul,amul_paneer.png,230,Dairy,Paneer,Pack,12,500g,0
+Atta,Aashirvaad,aashirvaad_atta.png,72,Atta,Wheat Flour,Loaf,12,Kg,0
+[‘Dahi’],Amul,amul_dahi.png,100,Dairy,Dahi,Pack,24,500 gm,0
+Dahi,Amul,amul_dahi,130,Dairy,Dahi,Pack,10,500g,0
+Burger,Burger King,burger_king_burger.png,130,Snacks,Sandwich,Pack,2,piece,0
+rasam,Tata,tata_rasam.png,14,Masale,rasam powder,Pack,10,packet,0
+Icecream,Amul,amul_icecream.png,150,Dairy,Icecream,Pack,30,1L,0
+Makhan,Sudha,sudha_makhan.png,41,Dairy,Butter,Pack,100,1/2 kg,0
+Dahi,Amul,amul_dahi.png,35,Dairy,dahi,Pack,10,packet,0
+Fairy,Fairy,fairy_detergent_liquid_soaps_1_litre_pack_of_1_1_litre_x_112_ml_pack_of_16_sachets_x_112_ml_pack_of_16_,18,Detergent Liquid Soaps,Liquid Soaps,Loose,22,ltr,0
+Atta,Patanjali,patanjali_atta.png,30,Atta,Atta,Pack,100,packet,0
+Bhuna Methi,SDS,sds_bhuna_methi.png,13,Masale,Methi,Bottle,3,200 g,0
+Chawal,Safal,safal_chawal.png,44,Chawal,Chawal,Pack,3,packet,0
+Rice,Park,amul_rice.png,35,Dairy,chawal-rice,Pack,10,kilo,0

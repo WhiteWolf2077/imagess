@@ -1,0 +1,21 @@
+name,brand,imageUrl,price,category,sub_category,type,stock,unit,discount
+Aashirvaad Whole Wheat Atta,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_whole_wheat_atta.jpg,77,flour,atta,grocery,100,1kg,5
+Patanjali Dant Kanti Toothpaste,Patanjali,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/patanjali_patanjali_dant_kanti_toothpaste.jpg,81,personal_care,toothpaste,grocery,100,500g,5
+MDH Haldi Powder,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_haldi_powder.jpg,66,masala,haldi,grocery,100,500g,5
+Everest Chaat Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_chaat_masala.jpg,70,masala,chaat_masala,grocery,100,500g,5
+Tata Salt,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_salt.jpg,59,grocery,salt,grocery,100,500g,5
+Fortune Soya Oil,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_soya_oil.jpg,66,oil,soya_oil,grocery,100,500g,5
+Amul Taaza Milk,Amul,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/amul_amul_taaza_milk.jpg,65,dairy,milk,grocery,100,500g,5
+Parle-G Biscuits,Parle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/parle_parle-g_biscuits.jpg,66,snacks,biscuits,grocery,100,500g,5
+Maggie Noodles,Nestle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/nestle_maggie_noodles.jpg,64,snacks,noodles,grocery,100,500g,5
+Surf Excel Detergent,Surf Excel,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/surf_excel_surf_excel_detergent.jpg,70,cleaning,detergent,grocery,100,500g,5
+Haldiram Bhujia,Haldiram,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/haldiram_haldiram_bhujia.jpg,65,snacks,bhujia,grocery,100,500g,5
+Kissan Mixed Fruit Jam,Kissan,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/kissan_kissan_mixed_fruit_jam.jpg,72,spread,jam,grocery,100,500g,5
+Colgate Strong Teeth,Colgate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/colgate_colgate_strong_teeth.jpg,70,personal_care,toothpaste,grocery,100,500g,5
+Dettol Liquid,Dettol,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/dettol_dettol_liquid.jpg,63,personal_care,antiseptic,grocery,100,500g,5
+Bournvita Health Drink,Cadbury,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/cadbury_bournvita_health_drink.jpg,72,beverage,health_drink,grocery,100,500g,5
+Red Label Tea,Brooke Bond,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/brooke_bond_red_label_tea.jpg,63,beverage,tea,grocery,100,500g,5
+Ariel Washing Powder,Ariel,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/ariel_ariel_washing_powder.jpg,70,cleaning,detergent,grocery,100,500g,5
+Daawat Basmati Rice,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_basmati_rice.jpg,69,grocery,rice,grocery,100,1kg,5
+Fortune Besan,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_besan.jpg,63,flour,besan,grocery,100,500g,5
+Tata Sampann Dal,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_sampann_dal.jpg,66,grocery,dal,grocery,100,500g,5

@@ -1,0 +1,225 @@
+name,brand,imageUrl,price,category,sub_category,type,stock,unit,discount
+MDH Haldi Powder,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_haldi_powder.jpg,239.95,masala,haldi_powder,grocery,26,500g,3
+MDH Lal Mirch Powder,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_lal_mirch_powder.jpg,113.86,masala,lal_mirch_powder,grocery,113,500g,2
+MDH Dhaniya Powder,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_dhaniya_powder.jpg,154.32,masala,dhaniya_powder,grocery,122,500g,9
+MDH Jeera Powder,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_jeera_powder.jpg,87.08,masala,jeera_powder,grocery,156,500g,2
+MDH Garam Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_garam_masala.jpg,160.73,masala,garam_masala,grocery,114,500g,0
+MDH Chole Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_chole_masala.jpg,90.88,masala,chole_masala,grocery,123,500g,1
+MDH Pav Bhaji Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_pav_bhaji_masala.jpg,239.63,masala,pav_bhaji_masala,grocery,157,500g,3
+MDH Kitchen King,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_kitchen_king.jpg,210.65,masala,kitchen_king,grocery,70,500g,0
+MDH Meat Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_meat_masala.jpg,117.59,masala,meat_masala,grocery,79,500g,10
+MDH Sabzi Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_sabzi_masala.jpg,260.53,masala,sabzi_masala,grocery,156,500g,8
+MDH Sambhar Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_sambhar_masala.jpg,61.63,masala,sambhar_masala,grocery,31,500g,6
+MDH Biryani Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_biryani_masala.jpg,216.08,masala,biryani_masala,grocery,10,500g,10
+MDH Chaat Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_chaat_masala.jpg,146.09,masala,chaat_masala,grocery,86,500g,7
+MDH Paneer Butter Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_paneer_butter_masala.jpg,159.53,masala,paneer_butter_masala,grocery,133,500g,2
+MDH Rajma Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_rajma_masala.jpg,113.16,masala,rajma_masala,grocery,44,500g,6
+MDH Pani Puri Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_pani_puri_masala.jpg,229.26,masala,pani_puri_masala,grocery,100,500g,7
+MDH Tandoori Masala,MDH,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mdh_mdh_tandoori_masala.jpg,184.7,masala,tandoori_masala,grocery,177,500g,6
+Everest Haldi Powder,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_haldi_powder.jpg,86.99,masala,haldi_powder,grocery,159,500g,3
+Everest Lal Mirch Powder,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_lal_mirch_powder.jpg,119.28,masala,lal_mirch_powder,grocery,93,500g,9
+Everest Dhaniya Powder,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_dhaniya_powder.jpg,270.28,masala,dhaniya_powder,grocery,41,500g,8
+Everest Jeera Powder,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_jeera_powder.jpg,62.85,masala,jeera_powder,grocery,38,500g,8
+Everest Garam Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_garam_masala.jpg,48.17,masala,garam_masala,grocery,107,500g,10
+Everest Chole Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_chole_masala.jpg,189.09,masala,chole_masala,grocery,151,500g,1
+Everest Pav Bhaji Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_pav_bhaji_masala.jpg,193.93,masala,pav_bhaji_masala,grocery,19,500g,2
+Everest Kitchen King,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_kitchen_king.jpg,208.06,masala,kitchen_king,grocery,138,500g,2
+Everest Meat Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_meat_masala.jpg,142.77,masala,meat_masala,grocery,92,500g,2
+Everest Sabzi Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_sabzi_masala.jpg,137.84,masala,sabzi_masala,grocery,54,500g,6
+Everest Sambhar Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_sambhar_masala.jpg,257.39,masala,sambhar_masala,grocery,192,500g,5
+Everest Biryani Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_biryani_masala.jpg,231.52,masala,biryani_masala,grocery,134,500g,2
+Everest Chaat Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_chaat_masala.jpg,213.81,masala,chaat_masala,grocery,177,500g,6
+Everest Paneer Butter Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_paneer_butter_masala.jpg,297.22,masala,paneer_butter_masala,grocery,161,500g,8
+Everest Rajma Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_rajma_masala.jpg,222.09,masala,rajma_masala,grocery,95,500g,5
+Everest Pani Puri Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_pani_puri_masala.jpg,23.74,masala,pani_puri_masala,grocery,10,500g,8
+Everest Tandoori Masala,Everest,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/everest_everest_tandoori_masala.jpg,43.96,masala,tandoori_masala,grocery,39,500g,6
+Catch Haldi Powder,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_haldi_powder.jpg,140.41,masala,haldi_powder,grocery,125,500g,9
+Catch Lal Mirch Powder,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_lal_mirch_powder.jpg,288.15,masala,lal_mirch_powder,grocery,113,500g,10
+Catch Dhaniya Powder,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_dhaniya_powder.jpg,175.36,masala,dhaniya_powder,grocery,181,500g,7
+Catch Jeera Powder,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_jeera_powder.jpg,27.44,masala,jeera_powder,grocery,127,500g,6
+Catch Garam Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_garam_masala.jpg,27.08,masala,garam_masala,grocery,69,500g,3
+Catch Chole Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_chole_masala.jpg,32.09,masala,chole_masala,grocery,61,500g,7
+Catch Pav Bhaji Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_pav_bhaji_masala.jpg,81.3,masala,pav_bhaji_masala,grocery,71,500g,4
+Catch Kitchen King,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_kitchen_king.jpg,115.38,masala,kitchen_king,grocery,80,500g,1
+Catch Meat Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_meat_masala.jpg,218.77,masala,meat_masala,grocery,24,500g,6
+Catch Sabzi Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_sabzi_masala.jpg,47.61,masala,sabzi_masala,grocery,39,500g,0
+Catch Sambhar Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_sambhar_masala.jpg,288.16,masala,sambhar_masala,grocery,139,500g,3
+Catch Biryani Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_biryani_masala.jpg,173.24,masala,biryani_masala,grocery,37,500g,3
+Catch Chaat Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_chaat_masala.jpg,104.77,masala,chaat_masala,grocery,14,500g,2
+Catch Paneer Butter Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_paneer_butter_masala.jpg,233.95,masala,paneer_butter_masala,grocery,46,500g,2
+Catch Rajma Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_rajma_masala.jpg,236.4,masala,rajma_masala,grocery,120,500g,0
+Catch Pani Puri Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_pani_puri_masala.jpg,257.12,masala,pani_puri_masala,grocery,27,500g,1
+Catch Tandoori Masala,Catch,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/catch_catch_tandoori_masala.jpg,98.94,masala,tandoori_masala,grocery,47,500g,7
+SDS Haldi Powder,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_haldi_powder.jpg,29.1,masala,haldi_powder,grocery,21,500g,0
+SDS Lal Mirch Powder,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_lal_mirch_powder.jpg,181.66,masala,lal_mirch_powder,grocery,19,500g,0
+SDS Dhaniya Powder,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_dhaniya_powder.jpg,31.55,masala,dhaniya_powder,grocery,148,500g,7
+SDS Jeera Powder,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_jeera_powder.jpg,291.8,masala,jeera_powder,grocery,174,500g,9
+SDS Garam Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_garam_masala.jpg,239.87,masala,garam_masala,grocery,16,500g,3
+SDS Chole Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_chole_masala.jpg,156.08,masala,chole_masala,grocery,175,500g,2
+SDS Pav Bhaji Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_pav_bhaji_masala.jpg,117.47,masala,pav_bhaji_masala,grocery,96,500g,10
+SDS Kitchen King,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_kitchen_king.jpg,267.65,masala,kitchen_king,grocery,121,500g,10
+SDS Meat Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_meat_masala.jpg,48.19,masala,meat_masala,grocery,37,500g,6
+SDS Sabzi Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_sabzi_masala.jpg,49.26,masala,sabzi_masala,grocery,139,500g,7
+SDS Sambhar Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_sambhar_masala.jpg,58.03,masala,sambhar_masala,grocery,171,500g,9
+SDS Biryani Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_biryani_masala.jpg,111.54,masala,biryani_masala,grocery,86,500g,9
+SDS Chaat Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_chaat_masala.jpg,212.47,masala,chaat_masala,grocery,195,500g,7
+SDS Paneer Butter Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_paneer_butter_masala.jpg,108.52,masala,paneer_butter_masala,grocery,39,500g,8
+SDS Rajma Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_rajma_masala.jpg,243.08,masala,rajma_masala,grocery,36,500g,6
+SDS Pani Puri Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_pani_puri_masala.jpg,264.89,masala,pani_puri_masala,grocery,59,500g,9
+SDS Tandoori Masala,SDS,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/sds_sds_tandoori_masala.jpg,107.96,masala,tandoori_masala,grocery,42,500g,10
+Goldiee Haldi Powder,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_haldi_powder.jpg,20.42,masala,haldi_powder,grocery,133,500g,10
+Goldiee Lal Mirch Powder,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_lal_mirch_powder.jpg,106.71,masala,lal_mirch_powder,grocery,50,500g,8
+Goldiee Dhaniya Powder,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_dhaniya_powder.jpg,163.22,masala,dhaniya_powder,grocery,197,500g,1
+Goldiee Jeera Powder,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_jeera_powder.jpg,123.43,masala,jeera_powder,grocery,17,500g,1
+Goldiee Garam Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_garam_masala.jpg,75.35,masala,garam_masala,grocery,179,500g,4
+Goldiee Chole Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_chole_masala.jpg,124.78,masala,chole_masala,grocery,189,500g,7
+Goldiee Pav Bhaji Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_pav_bhaji_masala.jpg,250.71,masala,pav_bhaji_masala,grocery,21,500g,0
+Goldiee Kitchen King,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_kitchen_king.jpg,168.37,masala,kitchen_king,grocery,19,500g,6
+Goldiee Meat Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_meat_masala.jpg,120.61,masala,meat_masala,grocery,196,500g,1
+Goldiee Sabzi Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_sabzi_masala.jpg,260.63,masala,sabzi_masala,grocery,172,500g,4
+Goldiee Sambhar Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_sambhar_masala.jpg,81.65,masala,sambhar_masala,grocery,49,500g,9
+Goldiee Biryani Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_biryani_masala.jpg,168.24,masala,biryani_masala,grocery,191,500g,6
+Goldiee Chaat Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_chaat_masala.jpg,138.66,masala,chaat_masala,grocery,123,500g,7
+Goldiee Paneer Butter Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_paneer_butter_masala.jpg,186.87,masala,paneer_butter_masala,grocery,116,500g,2
+Goldiee Rajma Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_rajma_masala.jpg,164.17,masala,rajma_masala,grocery,93,500g,8
+Goldiee Pani Puri Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_pani_puri_masala.jpg,247.73,masala,pani_puri_masala,grocery,69,500g,10
+Goldiee Tandoori Masala,Goldiee,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/goldiee_goldiee_tandoori_masala.jpg,187.07,masala,tandoori_masala,grocery,194,500g,0
+Badshah Haldi Powder,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_haldi_powder.jpg,26.44,masala,haldi_powder,grocery,107,500g,4
+Badshah Lal Mirch Powder,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_lal_mirch_powder.jpg,258.99,masala,lal_mirch_powder,grocery,146,500g,5
+Badshah Dhaniya Powder,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_dhaniya_powder.jpg,157.23,masala,dhaniya_powder,grocery,163,500g,7
+Badshah Jeera Powder,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_jeera_powder.jpg,295.25,masala,jeera_powder,grocery,144,500g,7
+Badshah Garam Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_garam_masala.jpg,177.83,masala,garam_masala,grocery,146,500g,0
+Badshah Chole Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_chole_masala.jpg,62.32,masala,chole_masala,grocery,198,500g,2
+Badshah Pav Bhaji Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_pav_bhaji_masala.jpg,54.65,masala,pav_bhaji_masala,grocery,196,500g,0
+Badshah Kitchen King,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_kitchen_king.jpg,279.18,masala,kitchen_king,grocery,47,500g,10
+Badshah Meat Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_meat_masala.jpg,132.11,masala,meat_masala,grocery,21,500g,1
+Badshah Sabzi Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_sabzi_masala.jpg,204.45,masala,sabzi_masala,grocery,90,500g,10
+Badshah Sambhar Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_sambhar_masala.jpg,38.62,masala,sambhar_masala,grocery,78,500g,5
+Badshah Biryani Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_biryani_masala.jpg,102.66,masala,biryani_masala,grocery,43,500g,2
+Badshah Chaat Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_chaat_masala.jpg,185.89,masala,chaat_masala,grocery,83,500g,1
+Badshah Paneer Butter Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_paneer_butter_masala.jpg,288.84,masala,paneer_butter_masala,grocery,142,500g,0
+Badshah Rajma Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_rajma_masala.jpg,148.0,masala,rajma_masala,grocery,23,500g,2
+Badshah Pani Puri Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_pani_puri_masala.jpg,186.26,masala,pani_puri_masala,grocery,130,500g,5
+Badshah Tandoori Masala,Badshah,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/badshah_badshah_tandoori_masala.jpg,286.91,masala,tandoori_masala,grocery,17,500g,10
+Amul Ghee,Amul,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/amul_amul_ghee.jpg,83.51,dairy,ghee,grocery,60,500g,7
+Amul Dahi,Amul,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/amul_amul_dahi.jpg,42.38,dairy,dahi,grocery,189,500g,5
+Amul Paneer,Amul,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/amul_amul_paneer.jpg,283.62,dairy,paneer,grocery,184,500g,7
+Amul Cheese Slices,Amul,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/amul_amul_cheese_slices.jpg,165.41,dairy,cheese_slices,grocery,60,500g,4
+Amul Butter,Amul,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/amul_amul_butter.jpg,41.73,dairy,butter,grocery,22,500g,10
+Amul Curd,Amul,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/amul_amul_curd.jpg,62.24,dairy,curd,grocery,143,500g,3
+Amul Malai Paneer,Amul,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/amul_amul_malai_paneer.jpg,66.63,dairy,malai_paneer,grocery,99,500g,0
+Amul Processed Cheese,Amul,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/amul_amul_processed_cheese.jpg,149.81,dairy,processed_cheese,grocery,22,500g,5
+Mother Dairy Ghee,Mother Dairy,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mother_dairy_mother_dairy_ghee.jpg,185.26,dairy,ghee,grocery,176,500g,7
+Mother Dairy Dahi,Mother Dairy,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mother_dairy_mother_dairy_dahi.jpg,194.71,dairy,dahi,grocery,103,500g,9
+Mother Dairy Paneer,Mother Dairy,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mother_dairy_mother_dairy_paneer.jpg,179.03,dairy,paneer,grocery,120,500g,4
+Mother Dairy Cheese Slices,Mother Dairy,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mother_dairy_mother_dairy_cheese_slices.jpg,47.27,dairy,cheese_slices,grocery,147,500g,3
+Mother Dairy Butter,Mother Dairy,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mother_dairy_mother_dairy_butter.jpg,160.3,dairy,butter,grocery,89,500g,6
+Mother Dairy Curd,Mother Dairy,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mother_dairy_mother_dairy_curd.jpg,82.36,dairy,curd,grocery,34,500g,7
+Mother Dairy Malai Paneer,Mother Dairy,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mother_dairy_mother_dairy_malai_paneer.jpg,73.46,dairy,malai_paneer,grocery,83,500g,1
+Mother Dairy Processed Cheese,Mother Dairy,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/mother_dairy_mother_dairy_processed_cheese.jpg,73.8,dairy,processed_cheese,grocery,30,500g,10
+Gowardhan Ghee,Gowardhan,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/gowardhan_gowardhan_ghee.jpg,252.64,dairy,ghee,grocery,117,500g,2
+Gowardhan Dahi,Gowardhan,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/gowardhan_gowardhan_dahi.jpg,254.21,dairy,dahi,grocery,30,500g,1
+Gowardhan Paneer,Gowardhan,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/gowardhan_gowardhan_paneer.jpg,196.19,dairy,paneer,grocery,70,500g,7
+Gowardhan Cheese Slices,Gowardhan,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/gowardhan_gowardhan_cheese_slices.jpg,234.88,dairy,cheese_slices,grocery,28,500g,4
+Gowardhan Butter,Gowardhan,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/gowardhan_gowardhan_butter.jpg,73.86,dairy,butter,grocery,72,500g,6
+Gowardhan Curd,Gowardhan,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/gowardhan_gowardhan_curd.jpg,75.41,dairy,curd,grocery,158,500g,1
+Gowardhan Malai Paneer,Gowardhan,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/gowardhan_gowardhan_malai_paneer.jpg,177.25,dairy,malai_paneer,grocery,118,500g,3
+Gowardhan Processed Cheese,Gowardhan,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/gowardhan_gowardhan_processed_cheese.jpg,271.55,dairy,processed_cheese,grocery,106,500g,8
+Nestle Ghee,Nestle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/nestle_nestle_ghee.jpg,203.52,dairy,ghee,grocery,146,500g,0
+Nestle Dahi,Nestle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/nestle_nestle_dahi.jpg,78.02,dairy,dahi,grocery,55,500g,3
+Nestle Paneer,Nestle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/nestle_nestle_paneer.jpg,247.53,dairy,paneer,grocery,50,500g,3
+Nestle Cheese Slices,Nestle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/nestle_nestle_cheese_slices.jpg,69.13,dairy,cheese_slices,grocery,181,500g,8
+Nestle Butter,Nestle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/nestle_nestle_butter.jpg,225.45,dairy,butter,grocery,190,500g,10
+Nestle Curd,Nestle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/nestle_nestle_curd.jpg,127.38,dairy,curd,grocery,178,500g,8
+Nestle Malai Paneer,Nestle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/nestle_nestle_malai_paneer.jpg,260.65,dairy,malai_paneer,grocery,98,500g,1
+Nestle Processed Cheese,Nestle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/nestle_nestle_processed_cheese.jpg,291.16,dairy,processed_cheese,grocery,67,500g,7
+Tata Basmati Rice,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_basmati_rice.jpg,293.28,grocery,basmati_rice,grocery,193,1kg,10
+Tata Whole Wheat Atta,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_whole_wheat_atta.jpg,293.68,grocery,whole_wheat_atta,grocery,148,1kg,1
+Tata Maida,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_maida.jpg,90.14,grocery,maida,grocery,106,500g,4
+Tata Suji,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_suji.jpg,137.67,grocery,suji,grocery,36,500g,10
+Tata Besan,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_besan.jpg,48.72,grocery,besan,grocery,93,500g,4
+Tata Moong Dal,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_moong_dal.jpg,156.02,grocery,moong_dal,grocery,133,500g,10
+Tata Toor Dal,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_toor_dal.jpg,156.52,grocery,toor_dal,grocery,137,500g,3
+Tata Chana Dal,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_chana_dal.jpg,194.05,grocery,chana_dal,grocery,153,500g,10
+Tata Kala Chana,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_kala_chana.jpg,259.85,grocery,kala_chana,grocery,68,500g,7
+Tata Rajma,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_rajma.jpg,249.05,grocery,rajma,grocery,181,500g,8
+Tata Kabuli Chana,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_kabuli_chana.jpg,118.11,grocery,kabuli_chana,grocery,109,500g,8
+Tata Sugar,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_sugar.jpg,125.98,grocery,sugar,grocery,137,500g,8
+Tata Salt,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_salt.jpg,114.29,grocery,salt,grocery,29,500g,4
+Tata Poha,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_poha.jpg,41.19,grocery,poha,grocery,189,500g,6
+Tata Flattened Rice,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_flattened_rice.jpg,105.32,grocery,flattened_rice,grocery,126,1kg,4
+Tata Rava,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_rava.jpg,71.44,grocery,rava,grocery,65,500g,3
+Tata Jaggery,Tata,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tata_tata_jaggery.jpg,177.93,grocery,jaggery,grocery,143,500g,9
+Fortune Basmati Rice,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_basmati_rice.jpg,227.24,grocery,basmati_rice,grocery,96,1kg,10
+Fortune Whole Wheat Atta,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_whole_wheat_atta.jpg,141.6,grocery,whole_wheat_atta,grocery,178,1kg,3
+Fortune Maida,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_maida.jpg,256.05,grocery,maida,grocery,87,500g,3
+Fortune Suji,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_suji.jpg,85.33,grocery,suji,grocery,190,500g,1
+Fortune Besan,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_besan.jpg,66.04,grocery,besan,grocery,15,500g,5
+Fortune Moong Dal,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_moong_dal.jpg,41.06,grocery,moong_dal,grocery,157,500g,0
+Fortune Toor Dal,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_toor_dal.jpg,60.81,grocery,toor_dal,grocery,102,500g,0
+Fortune Chana Dal,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_chana_dal.jpg,224.9,grocery,chana_dal,grocery,166,500g,6
+Fortune Kala Chana,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_kala_chana.jpg,142.62,grocery,kala_chana,grocery,52,500g,10
+Fortune Rajma,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_rajma.jpg,46.39,grocery,rajma,grocery,54,500g,8
+Fortune Kabuli Chana,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_kabuli_chana.jpg,277.89,grocery,kabuli_chana,grocery,89,500g,0
+Fortune Sugar,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_sugar.jpg,222.02,grocery,sugar,grocery,120,500g,0
+Fortune Salt,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_salt.jpg,194.55,grocery,salt,grocery,152,500g,2
+Fortune Poha,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_poha.jpg,71.42,grocery,poha,grocery,170,500g,0
+Fortune Flattened Rice,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_flattened_rice.jpg,212.89,grocery,flattened_rice,grocery,103,1kg,6
+Fortune Rava,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_rava.jpg,55.79,grocery,rava,grocery,85,500g,10
+Fortune Jaggery,Fortune,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/fortune_fortune_jaggery.jpg,291.2,grocery,jaggery,grocery,69,500g,1
+Daawat Basmati Rice,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_basmati_rice.jpg,39.85,grocery,basmati_rice,grocery,54,1kg,9
+Daawat Whole Wheat Atta,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_whole_wheat_atta.jpg,267.72,grocery,whole_wheat_atta,grocery,151,1kg,5
+Daawat Maida,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_maida.jpg,166.63,grocery,maida,grocery,157,500g,4
+Daawat Suji,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_suji.jpg,213.97,grocery,suji,grocery,63,500g,2
+Daawat Besan,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_besan.jpg,20.07,grocery,besan,grocery,102,500g,1
+Daawat Moong Dal,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_moong_dal.jpg,276.64,grocery,moong_dal,grocery,141,500g,6
+Daawat Toor Dal,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_toor_dal.jpg,26.34,grocery,toor_dal,grocery,152,500g,7
+Daawat Chana Dal,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_chana_dal.jpg,78.39,grocery,chana_dal,grocery,164,500g,10
+Daawat Kala Chana,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_kala_chana.jpg,82.91,grocery,kala_chana,grocery,71,500g,1
+Daawat Rajma,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_rajma.jpg,238.73,grocery,rajma,grocery,59,500g,0
+Daawat Kabuli Chana,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_kabuli_chana.jpg,122.65,grocery,kabuli_chana,grocery,13,500g,0
+Daawat Sugar,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_sugar.jpg,235.58,grocery,sugar,grocery,34,500g,3
+Daawat Salt,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_salt.jpg,83.73,grocery,salt,grocery,68,500g,0
+Daawat Poha,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_poha.jpg,295.62,grocery,poha,grocery,130,500g,6
+Daawat Flattened Rice,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_flattened_rice.jpg,93.81,grocery,flattened_rice,grocery,23,1kg,8
+Daawat Rava,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_rava.jpg,220.96,grocery,rava,grocery,17,500g,3
+Daawat Jaggery,Daawat,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/daawat_daawat_jaggery.jpg,295.57,grocery,jaggery,grocery,22,500g,1
+India Gate Basmati Rice,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_basmati_rice.jpg,82.12,grocery,basmati_rice,grocery,196,1kg,5
+India Gate Whole Wheat Atta,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_whole_wheat_atta.jpg,22.66,grocery,whole_wheat_atta,grocery,117,1kg,8
+India Gate Maida,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_maida.jpg,281.28,grocery,maida,grocery,56,500g,0
+India Gate Suji,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_suji.jpg,45.45,grocery,suji,grocery,100,500g,7
+India Gate Besan,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_besan.jpg,281.27,grocery,besan,grocery,119,500g,1
+India Gate Moong Dal,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_moong_dal.jpg,241.96,grocery,moong_dal,grocery,200,500g,7
+India Gate Toor Dal,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_toor_dal.jpg,37.02,grocery,toor_dal,grocery,101,500g,6
+India Gate Chana Dal,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_chana_dal.jpg,154.86,grocery,chana_dal,grocery,25,500g,9
+India Gate Kala Chana,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_kala_chana.jpg,293.03,grocery,kala_chana,grocery,11,500g,6
+India Gate Rajma,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_rajma.jpg,155.33,grocery,rajma,grocery,171,500g,9
+India Gate Kabuli Chana,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_kabuli_chana.jpg,129.68,grocery,kabuli_chana,grocery,141,500g,4
+India Gate Sugar,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_sugar.jpg,253.08,grocery,sugar,grocery,135,500g,3
+India Gate Salt,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_salt.jpg,281.46,grocery,salt,grocery,79,500g,8
+India Gate Poha,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_poha.jpg,86.52,grocery,poha,grocery,112,500g,6
+India Gate Flattened Rice,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_flattened_rice.jpg,187.93,grocery,flattened_rice,grocery,135,1kg,9
+India Gate Rava,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_rava.jpg,35.21,grocery,rava,grocery,169,500g,8
+India Gate Jaggery,India Gate,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/india_gate_india_gate_jaggery.jpg,69.45,grocery,jaggery,grocery,30,500g,2
+Aashirvaad Basmati Rice,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_basmati_rice.jpg,38.81,grocery,basmati_rice,grocery,115,1kg,10
+Aashirvaad Whole Wheat Atta,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_whole_wheat_atta.jpg,263.1,grocery,whole_wheat_atta,grocery,94,1kg,5
+Aashirvaad Maida,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_maida.jpg,230.06,grocery,maida,grocery,191,500g,8
+Aashirvaad Suji,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_suji.jpg,68.01,grocery,suji,grocery,108,500g,1
+Aashirvaad Besan,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_besan.jpg,37.8,grocery,besan,grocery,122,500g,5
+Aashirvaad Moong Dal,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_moong_dal.jpg,57.23,grocery,moong_dal,grocery,13,500g,0
+Aashirvaad Toor Dal,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_toor_dal.jpg,240.35,grocery,toor_dal,grocery,193,500g,9
+Aashirvaad Chana Dal,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_chana_dal.jpg,52.26,grocery,chana_dal,grocery,173,500g,10
+Aashirvaad Kala Chana,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_kala_chana.jpg,98.96,grocery,kala_chana,grocery,105,500g,5
+Aashirvaad Rajma,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_rajma.jpg,231.83,grocery,rajma,grocery,165,500g,5
+Aashirvaad Kabuli Chana,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_kabuli_chana.jpg,174.59,grocery,kabuli_chana,grocery,149,500g,9
+Aashirvaad Sugar,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_sugar.jpg,116.24,grocery,sugar,grocery,187,500g,9
+Aashirvaad Salt,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_salt.jpg,208.37,grocery,salt,grocery,108,500g,7
+Aashirvaad Poha,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_poha.jpg,65.96,grocery,poha,grocery,61,500g,3
+Aashirvaad Flattened Rice,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_flattened_rice.jpg,54.23,grocery,flattened_rice,grocery,118,1kg,6
+Aashirvaad Rava,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_rava.jpg,159.76,grocery,rava,grocery,119,500g,7
+Aashirvaad Jaggery,Aashirvaad,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/aashirvaad_aashirvaad_jaggery.jpg,270.35,grocery,jaggery,grocery,144,500g,6
+Haldiram Bhujia,Haldiram,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/haldiram_haldiram_bhujia.jpg,286.29,snacks,bhujia,grocery,148,500g,6
+Parle-G Biscuits,Parle,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/parle_parle-g_biscuits.jpg,200.36,snacks,biscuits,grocery,165,500g,1
+Patanjali Dant Kanti,Patanjali,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/patanjali_patanjali_dant_kanti.jpg,74.52,personal_care,toothpaste,grocery,144,500g,4
+Dettol Liquid,Dettol,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/dettol_dettol_liquid.jpg,93.92,personal_care,antiseptic,grocery,104,500g,2
+Tide Washing Powder,Tide,https://cdn.jsdelivr.net/gh/WhiteWolf2077/imagess/images/tide_tide_washing_powder.jpg,190.78,cleaning,detergent,grocery,190,500g,5

@@ -1,0 +1,521 @@
+name,brand,imageUrl,price,category,sub_category,type,stock,unit,discount
+Kissan Tomato Ketchup,Kissan,kissan_tomato_ketchup.png,69,Sauces & Spreads,Ketchup,Bottle,26,200 gm,5
+Garam Masala,MDH,mdh_garam_masala.png,67,Masale,Garam Masala,Pack,31,100 gm,10
+Kurkure Chilli Chatka,Kurkure,kurkure_chilli_chatka.png,35,Snacks,Namkeen,Pack,35,55 gm,0
+Kala Chana,Organic India,organic_india_kala_chana.png,83,Dal,Kala Chana,Pack,19,1 kg,10
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,70,Masale,Mirch,Pack,40,100 gm,0
+Patanjali Sooji,Patanjali,patanjali_sooji.png,66,Grains,Sooji,Pack,23,500 gm,5
+MTR Poha,MTR,mtr_poha.png,60,Ready to Eat,Poha,Pack,19,60 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,67,Personal Care,Toothpaste,Tube,23,100 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,29,Masale,Haldi,Pack,49,100 gm,5
+Bhujia Sev,Bikaji,bikaji_bhujia_sev.png,40,Snacks,Namkeen,Pack,25,200 gm,0
+Cheese,Amul,amul_cheese.png,132,Dairy,Cheese,Pack,10,200 gm,0
+Urad Dal,Tata Sampann,tata_sampann_urad_dal.png,96,Dal,Urad Dal,Pack,23,1 kg,0
+Mother Dairy Classic Dahi,Mother Dairy,mother_dairy_classic_dahi.png,60,Dairy,Dahi,Pack,20,400 gm,0
+Marie Gold Biscuit,Britannia,britannia_marie_gold_biscuit.png,37,Snacks,Biscuit,Pack,43,200 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,76,Masale,Mirch,Pack,46,100 gm,0
+Lays Magic Masala,Lays,lays_magic_masala.png,20,Snacks,Chips,Pack,40,52 gm,0
+Dhaniya Powder,SDS,sds_dhaniya_powder.png,50,Masale,Dhaniya,Pack,36,100 gm,0
+Basmati Chawal,Daawat,daawat_basmati_chawal.png,196,Grains,Chawal,Bag,20,1 kg,0
+Brown Rice,India Gate,india_gate_brown_rice.png,134,Grains,Chawal,Bag,16,1 kg,0
+Frooti,Parle Agro,parle_agro_frooti.png,20,Drinks,Mango Drink,Tetra Pak,37,160 ml,0
+Kala Chana,Organic India,organic_india_kala_chana.png,84,Dal,Kala Chana,Pack,16,1 kg,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,47,Personal Care,Toothpaste,Tube,31,100 gm,10
+Chana Dal,Fortune,fortune_chana_dal.png,72,Dal,Chana Dal,Pack,34,1 kg,0
+Moong Dal,Organic India,organic_india_moong_dal.png,134,Dal,Moong Dal,Pack,25,1 kg,0
+Basmati Chawal,India Gate,india_gate_basmati_chawal.png,190,Grains,Chawal,Bag,20,1 kg,5
+Chaat Masala,Catch,catch_chaat_masala.png,50,Masale,Chaat Masala,Pack,22,100 gm,0
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,186,Oils,Groundnut Oil,Bottle,7,1 ltr,0
+Dahi,Amul,amul_dahi.png,71,Dairy,Dahi,Pack,22,400 gm,0
+Brown Rice,India Gate,india_gate_brown_rice.png,122,Grains,Chawal,Bag,14,1 kg,0
+Patanjali Dant Kanti,Patanjali,patanjali_dant_kanti.png,42,Personal Care,Toothpaste,Tube,20,100 gm,0
+Jeera Powder,SDS,sds_jeera_powder.png,71,Masale,Jeera,Pack,33,100 gm,10
+Oreo Cream Biscuit,Cadbury,cadbury_oreo_cream_biscuit.png,33,Snacks,Biscuit,Pack,30,120 gm,0
+Cheese,Amul,amul_cheese.png,120,Dairy,Cheese,Pack,12,200 gm,0
+Fortune Besan,Fortune,fortune_besan.png,70,Grains,Besan,Pack,23,500 gm,5
+Ghee,Patanjali,patanjali_ghee.png,550,Dairy,Ghee,Tin,10,1 ltr,5
+Dahi,Amul,amul_dahi.png,68,Dairy,Dahi,Pack,24,400 gm,5
+Cheese,Amul,amul_cheese.png,141,Dairy,Cheese,Pack,14,200 gm,0
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,179,Oils,Groundnut Oil,Bottle,6,1 ltr,0
+Aashirvaad Sugar,Aashirvaad,aashirvaad_sugar.png,55,Essentials,Sugar,Pack,39,1 kg,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,50,Personal Care,Toothpaste,Tube,25,100 gm,0
+Chana Dal,Fortune,fortune_chana_dal.png,87,Dal,Chana Dal,Pack,30,1 kg,0
+Nescafe Classic,Nescafe,nescafe_classic.png,157,Beverages,Coffee,Jar,10,50 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,91,Masale,Meat,Pack,14,100 gm,15
+Daawat Rozana Rice,Daawat,daawat_rozana_rice.png,100,Grains,Chawal,Bag,15,1 kg,0
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,62,Masale,Dhaniya,Pack,41,100 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,40,Masale,Haldi,Pack,53,100 gm,10
+Kurkure Masala Munch,Kurkure,kurkure_masala_munch.png,20,Snacks,Namkeen,Pack,35,55 gm,0
+Moong Dal,Organic India,organic_india_moong_dal.png,116,Dal,Moong Dal,Pack,25,1 kg,0
+Real Mixed Fruit Juice,Real,real_mixed_fruit_juice.png,111,Drinks,Juice,Tetra Pak,25,1 ltr,0
+Nescafe Classic,Nescafe,nescafe_classic.png,147,Beverages,Coffee,Jar,14,50 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,69,Personal Care,Toothpaste,Tube,24,100 gm,20
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,60,Masale,Mirch,Pack,40,100 gm,5
+Marie Gold Biscuit,Britannia,britannia_marie_gold_biscuit.png,48,Snacks,Biscuit,Pack,44,200 gm,5
+Haldi Powder,SDS,sds_haldi_powder.png,18,Masale,Haldi,Pack,54,100 gm,5
+Garam Masala,MDH,mdh_garam_masala.png,76,Masale,Garam Masala,Pack,32,100 gm,10
+Uncle Chips Spicy Treat,Uncle Chips,uncle_chips_spicy_treat.png,31,Snacks,Chips,Pack,25,52 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,41,Masale,Haldi,Pack,48,100 gm,15
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,57,Personal Care,Toothpaste,Tube,22,100 gm,0
+Butter,Amul,amul_butter.png,80,Dairy,Butter,Pack,17,100 gm,0
+Butter,Amul,amul_butter.png,55,Dairy,Butter,Pack,18,100 gm,0
+Patanjali Sooji,Patanjali,patanjali_sooji.png,65,Grains,Sooji,Pack,21,500 gm,0
+Kurkure Chilli Chatka,Kurkure,kurkure_chilli_chatka.png,25,Snacks,Namkeen,Pack,35,55 gm,0
+Moong Dal,Organic India,organic_india_moong_dal.png,118,Dal,Moong Dal,Pack,19,1 kg,5
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,59,Masale,Dhaniya,Pack,31,100 gm,0
+Oreo Cream Biscuit,Cadbury,cadbury_oreo_cream_biscuit.png,30,Snacks,Biscuit,Pack,30,120 gm,0
+Tata Tea Gold,Tata,tata_tea_gold.png,124,Beverages,Tea,Pack,21,250 gm,0
+Chana Dal,Fortune,fortune_chana_dal.png,72,Dal,Chana Dal,Pack,32,1 kg,5
+Dhaniya Powder,SDS,sds_dhaniya_powder.png,59,Masale,Dhaniya,Pack,34,100 gm,5
+Kissan Tomato Ketchup,Kissan,kissan_tomato_ketchup.png,60,Sauces & Spreads,Ketchup,Bottle,25,200 gm,0
+Harpic Toilet Cleaner,Harpic,harpic_toilet_cleaner.png,90,Cleaning,Toilet Cleaner,Bottle,15,500 ml,0
+Kala Chana,Organic India,organic_india_kala_chana.png,85,Dal,Kala Chana,Pack,19,1 kg,5
+Dahi,Amul,amul_dahi.png,61,Dairy,Dahi,Pack,19,400 gm,0
+Aata,Fortune,fortune_aata.png,50,Grains,Aata,Bag,22,1 kg,0
+Basmati Chawal,Daawat,daawat_basmati_chawal.png,214,Grains,Chawal,Bag,25,1 kg,5
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,194,Oils,Groundnut Oil,Bottle,12,1 ltr,5
+Fortune Besan,Fortune,fortune_besan.png,70,Grains,Besan,Pack,25,500 gm,0
+Tata Tea Gold,Tata,tata_tea_gold.png,135,Beverages,Tea,Pack,27,250 gm,0
+Maggi 2-Minute Noodles,Maggi,maggi_2_minute_noodles.png,11,Ready to Eat,Noodles,Pack,49,70 gm,0
+Dahi,Amul,amul_dahi.png,75,Dairy,Dahi,Pack,20,400 gm,5
+Kurkure Chilli Chatka,Kurkure,kurkure_chilli_chatka.png,13,Snacks,Namkeen,Pack,32,55 gm,0
+Chana Dal,Fortune,fortune_chana_dal.png,72,Dal,Chana Dal,Pack,30,1 kg,0
+Basmati Chawal,Daawat,daawat_basmati_chawal.png,210,Grains,Chawal,Bag,20,1 kg,0
+Vim Bar,Vim,vim_bar.png,15,Cleaning,Dishwash,Bar,52,100 gm,0
+Ghee,Patanjali,patanjali_ghee.png,560,Dairy,Ghee,Tin,8,1 ltr,0
+Chaat Masala,Catch,catch_chaat_masala.png,59,Masale,Chaat Masala,Pack,26,100 gm,5
+Ghee,Patanjali,patanjali_ghee.png,550,Dairy,Ghee,Tin,10,1 ltr,5
+Toor Dal,Tata Sampann,tata_sampann_toor_dal.png,120,Dal,Toor Dal,Pack,25,1 kg,0
+Kissan Tomato Ketchup,Kissan,kissan_tomato_ketchup.png,84,Sauces & Spreads,Ketchup,Bottle,23,200 gm,0
+Bhujia Sev,Bikaji,bikaji_bhujia_sev.png,34,Snacks,Namkeen,Pack,22,200 gm,0
+Dahi,Amul,amul_dahi.png,60,Dairy,Dahi,Pack,20,400 gm,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,182,Oils,Mustard Oil,Bottle,22,1 ltr,0
+Dhara Refined Oil,Dhara,dhara_refined_oil.png,130,Oils,Refined Oil,Pouch,20,1 ltr,0
+Mother Dairy Classic Dahi,Mother Dairy,mother_dairy_classic_dahi.png,51,Dairy,Dahi,Pack,18,400 gm,5
+Chana Dal,Fortune,fortune_chana_dal.png,68,Dal,Chana Dal,Pack,33,1 kg,0
+Real Orange Juice,Real,real_orange_juice.png,110,Drinks,Juice,Tetra Pak,20,1 ltr,0
+Pav Bhaji Masala,Everest,everest_pav_bhaji_masala.png,54,Masale,Pav Bhaji,Pack,22,100 gm,5
+Mustard Oil,Saffola,saffola_mustard_oil.png,167,Oils,Mustard Oil,Bottle,18,1 ltr,0
+Butter,Amul,amul_butter.png,73,Dairy,Butter,Pack,15,100 gm,0
+Ghee,Patanjali,patanjali_ghee.png,538,Dairy,Ghee,Tin,17,1 ltr,0
+Cheese,Amul,amul_cheese.png,134,Dairy,Cheese,Pack,8,200 gm,5
+Garam Masala,MDH,mdh_garam_masala.png,70,Masale,Garam Masala,Pack,30,100 gm,10
+Tata Salt,Tata,tata_salt.png,32,Essentials,Salt,Pack,52,1 kg,0
+Basmati Chawal,India Gate,india_gate_basmati_chawal.png,200,Grains,Chawal,Bag,18,1 kg,0
+Tata Sampann Moong Chilka Dal,Tata Sampann,tata_sampann_moong_chilka_dal.png,114,Dal,Moong Chilka Dal,Pack,24,1 kg,0
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,68,Masale,Dhaniya,Pack,42,100 gm,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,157,Oils,Mustard Oil,Bottle,13,1 ltr,5
+Kurkure Chilli Chatka,Kurkure,kurkure_chilli_chatka.png,20,Snacks,Namkeen,Pack,35,55 gm,0
+Chana Dal,Fortune,fortune_chana_dal.png,79,Dal,Chana Dal,Pack,33,1 kg,0
+Haldi Powder,SDS,sds_haldi_powder.png,45,Masale,Haldi,Pack,47,100 gm,10
+Kala Chana,Organic India,organic_india_kala_chana.png,80,Dal,Kala Chana,Pack,15,1 kg,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,81,Personal Care,Toothpaste,Tube,26,100 gm,5
+Kissan Mixed Fruit Jam,Kissan,kissan_mixed_fruit_jam.png,60,Sauces & Spreads,Jam,Bottle,15,200 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,87,Masale,Mirch,Pack,37,100 gm,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,59,Personal Care,Toothpaste,Tube,25,100 gm,0
+Nescafe Classic,Nescafe,nescafe_classic.png,163,Beverages,Coffee,Jar,13,50 gm,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,81,Personal Care,Toothpaste,Tube,19,100 gm,5
+Patanjali Dant Kanti,Patanjali,patanjali_dant_kanti.png,50,Personal Care,Toothpaste,Tube,17,100 gm,0
+Aashirvaad Sugar,Aashirvaad,aashirvaad_sugar.png,54,Essentials,Sugar,Pack,43,1 kg,5
+Amul Dark Chocolate,Amul,amul_dark_chocolate.png,100,Chocolates,Dark Chocolate,Bar,15,150 gm,0
+Harpic Toilet Cleaner,Harpic,harpic_toilet_cleaner.png,97,Cleaning,Toilet Cleaner,Bottle,13,500 ml,5
+Basmati Chawal,India Gate,india_gate_basmati_chawal.png,206,Grains,Chawal,Bag,20,1 kg,0
+Paneer,Mother Dairy,mother_dairy_paneer.png,89,Dairy,Paneer,Pack,17,200 gm,5
+Fortune Besan,Fortune,fortune_besan.png,82,Grains,Besan,Pack,17,500 gm,0
+Parle-G Biscuit,Parle,parle_g_biscuit.png,22,Snacks,Biscuit,Pack,55,100 gm,0
+Garam Masala,MDH,mdh_garam_masala.png,78,Masale,Garam Masala,Pack,29,100 gm,0
+Everest Shahi Paneer Masala,Everest,everest_shahi_paneer_masala.png,80,Masale,Paneer Masala,Pack,20,100 gm,5
+Kurkure Green Chutney,Kurkure,kurkure_green_chutney.png,20,Snacks,Namkeen,Pack,35,55 gm,0
+Dahi,Amul,amul_dahi.png,69,Dairy,Dahi,Pack,20,400 gm,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,179,Oils,Mustard Oil,Bottle,13,1 ltr,0
+Good Day Biscuit,Britannia,britannia_good_day_biscuit.png,30,Snacks,Biscuit,Pack,35,100 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,40,Masale,Haldi,Pack,51,100 gm,0
+Basmati Chawal,Daawat,daawat_basmati_chawal.png,201,Grains,Chawal,Bag,17,1 kg,5
+Butter,Amul,amul_butter.png,68,Dairy,Butter,Pack,16,100 gm,5
+Surf Excel,Surf Excel,surf_excel.png,53,Cleaning,Detergent,Pack,32,500 gm,0
+Butter,Amul,amul_butter.png,77,Dairy,Butter,Pack,14,100 gm,0
+Ghee,Patanjali,patanjali_ghee.png,548,Dairy,Ghee,Tin,10,1 ltr,0
+Fortune Besan,Fortune,fortune_besan.png,77,Grains,Besan,Pack,23,500 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,56,Masale,Mirch,Pack,41,100 gm,0
+Monaco Biscuit,Parle,parle_monaco_biscuit.png,34,Snacks,Biscuit,Pack,41,75 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,43,Masale,Haldi,Pack,57,100 gm,5
+Aashirvaad Sugar,Aashirvaad,aashirvaad_sugar.png,66,Essentials,Sugar,Pack,48,1 kg,0
+Cheese,Amul,amul_cheese.png,122,Dairy,Cheese,Pack,10,200 gm,0
+Dahi,Amul,amul_dahi.png,63,Dairy,Dahi,Pack,22,400 gm,0
+Basmati Chawal,Daawat,daawat_basmati_chawal.png,213,Grains,Chawal,Bag,24,1 kg,0
+Meat Masala,MDH,mdh_meat_masala.png,90,Masale,Meat,Pack,19,100 gm,0
+Patanjali Dant Kanti,Patanjali,patanjali_dant_kanti.png,73,Personal Care,Toothpaste,Tube,16,100 gm,0
+Refined Oil,Fortune,fortune_refined_oil.png,130,Oils,Refined Oil,Pouch,20,1 ltr,0
+Dahi,Amul,amul_dahi.png,66,Dairy,Dahi,Pack,20,400 gm,5
+Chana Dal,Fortune,fortune_chana_dal.png,66,Dal,Chana Dal,Pack,31,1 kg,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,63,Personal Care,Toothpaste,Tube,22,100 gm,5
+Vim Bar,Vim,vim_bar.png,22,Cleaning,Dishwash,Bar,57,100 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,28,Masale,Haldi,Pack,50,100 gm,5
+Moong Dal Namkeen,Haldiram's,haldirams_moong_dal_namkeen.png,45,Snacks,Namkeen,Pack,30,200 gm,0
+Cheese,Amul,amul_cheese.png,125,Dairy,Cheese,Pack,16,200 gm,0
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,187,Oils,Groundnut Oil,Bottle,5,1 ltr,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,51,Personal Care,Toothpaste,Tube,27,100 gm,5
+Butter,Amul,amul_butter.png,62,Dairy,Butter,Pack,15,100 gm,5
+Cheese,Amul,amul_cheese.png,115,Dairy,Cheese,Pack,11,200 gm,0
+Pav Bhaji Masala,Everest,everest_pav_bhaji_masala.png,73,Masale,Pav Bhaji,Pack,24,100 gm,5
+Real Mixed Fruit Juice,Real,real_mixed_fruit_juice.png,109,Drinks,Juice,Tetra Pak,24,1 ltr,0
+MTR Poha,MTR,mtr_poha.png,44,Ready to Eat,Poha,Pack,25,60 gm,0
+Uncle Chips Spicy Treat,Uncle Chips,uncle_chips_spicy_treat.png,20,Snacks,Chips,Pack,25,52 gm,0
+Nescafe Classic,Nescafe,nescafe_classic.png,150,Beverages,Coffee,Jar,10,50 gm,0
+Cheese,Amul,amul_cheese.png,124,Dairy,Cheese,Pack,12,200 gm,0
+Amul Taaza Milk,Amul,amul_taaza_milk.png,56,Dairy,Milk,Pack,30,1 ltr,0
+Butter,Amul,amul_butter.png,57,Dairy,Butter,Pack,15,100 gm,5
+Rajma,Fortune,fortune_rajma.png,121,Dal,Rajma,Pack,21,1 kg,5
+Aata,Fortune,fortune_aata.png,57,Grains,Aata,Bag,19,1 kg,0
+MDH Deggi Mirch,MDH,mdh_deggi_mirch.png,61,Masale,Mirch,Pack,34,100 gm,0
+Paneer,Mother Dairy,mother_dairy_paneer.png,107,Dairy,Paneer,Pack,18,200 gm,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,63,Personal Care,Toothpaste,Tube,22,100 gm,10
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,54,Masale,Dhaniya,Pack,45,100 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,40,Masale,Haldi,Pack,50,100 gm,5
+Sunflower Oil,Fortune,fortune_sunflower_oil.png,147,Oils,Sunflower Oil,Pouch,25,1 ltr,5
+Rajma,Fortune,fortune_rajma.png,116,Dal,Rajma,Pack,20,1 kg,0
+Dahi,Amul,amul_dahi.png,78,Dairy,Dahi,Pack,24,400 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,80,Personal Care,Toothpaste,Tube,28,100 gm,0
+Chana Dal,Fortune,fortune_chana_dal.png,73,Dal,Chana Dal,Pack,29,1 kg,0
+Kitchen King Masala,Everest,everest_kitchen_king_masala.png,76,Masale,Kitchen King,Pack,24,100 gm,0
+Moong Dal,Organic India,organic_india_moong_dal.png,110,Dal,Moong Dal,Pack,20,1 kg,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,69,Personal Care,Toothpaste,Tube,19,100 gm,5
+Kitchen King Masala,Everest,everest_kitchen_king_masala.png,80,Masale,Kitchen King,Pack,20,100 gm,5
+Butter,Amul,amul_butter.png,75,Dairy,Butter,Pack,19,100 gm,0
+Dahi,Amul,amul_dahi.png,71,Dairy,Dahi,Pack,21,400 gm,0
+Sabzi Masala,MDH,mdh_sabzi_masala.png,51,Masale,Sabzi,Pack,30,100 gm,10
+Mustard Oil,Saffola,saffola_mustard_oil.png,188,Oils,Mustard Oil,Bottle,22,1 ltr,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,74,Personal Care,Toothpaste,Tube,27,100 gm,15
+Garam Masala,MDH,mdh_garam_masala.png,68,Masale,Garam Masala,Pack,36,100 gm,15
+Tata Sampann Moong Chilka Dal,Tata Sampann,tata_sampann_moong_chilka_dal.png,110,Dal,Moong Chilka Dal,Pack,20,1 kg,0
+Rajma,Fortune,fortune_rajma.png,120,Dal,Rajma,Pack,20,1 kg,0
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,190,Oils,Groundnut Oil,Bottle,12,1 ltr,5
+Cheese,Amul,amul_cheese.png,112,Dairy,Cheese,Pack,9,200 gm,5
+Aloo Bhujia,Haldiram's,haldirams_aloo_bhujia.png,33,Snacks,Namkeen,Pack,31,200 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,74,Masale,Meat,Pack,10,100 gm,5
+Good Day Biscuit,Britannia,britannia_good_day_biscuit.png,45,Snacks,Biscuit,Pack,35,100 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,61,Personal Care,Toothpaste,Tube,22,100 gm,0
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,191,Oils,Groundnut Oil,Bottle,10,1 ltr,5
+KitKat,Nestle,nestle_kitkat.png,20,Chocolates,Wafer Chocolate,Bar,25,18 gm,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,178,Oils,Mustard Oil,Bottle,17,1 ltr,0
+Basmati Chawal,India Gate,india_gate_basmati_chawal.png,197,Grains,Chawal,Bag,18,1 kg,0
+Coca-Cola,Coca-Cola,coca_cola.png,40,Drinks,Cold Drink,Bottle,30,750 ml,0
+Colgate Strong Teeth,Colgate,colgate_strong_teeth.png,59,Personal Care,Toothpaste,Tube,27,100 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,57,Personal Care,Toothpaste,Tube,29,100 gm,5
+Lays Classic Salted,Lays,lays_classic_salted.png,26,Snacks,Chips,Pack,43,52 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,102,Masale,Meat,Pack,22,100 gm,0
+Brown Rice,India Gate,india_gate_brown_rice.png,114,Grains,Chawal,Bag,17,1 kg,0
+Chaat Masala,Catch,catch_chaat_masala.png,61,Masale,Chaat Masala,Pack,21,100 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,105,Masale,Meat,Pack,12,100 gm,5
+Moong Dal,Organic India,organic_india_moong_dal.png,104,Dal,Moong Dal,Pack,22,1 kg,0
+Cheese,Amul,amul_cheese.png,135,Dairy,Cheese,Pack,10,200 gm,5
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,68,Masale,Dhaniya,Pack,39,100 gm,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,58,Personal Care,Toothpaste,Tube,29,100 gm,0
+Garam Masala,MDH,mdh_garam_masala.png,82,Masale,Garam Masala,Pack,40,100 gm,10
+Tata Salt,Tata,tata_salt.png,18,Essentials,Salt,Pack,49,1 kg,5
+Sabzi Masala,MDH,mdh_sabzi_masala.png,57,Masale,Sabzi,Pack,21,100 gm,0
+Paneer,Mother Dairy,mother_dairy_paneer.png,101,Dairy,Paneer,Pack,15,200 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,72,Masale,Mirch,Pack,41,100 gm,0
+Paneer,Mother Dairy,mother_dairy_paneer.png,81,Dairy,Paneer,Pack,20,200 gm,0
+Sabzi Masala,MDH,mdh_sabzi_masala.png,55,Masale,Sabzi,Pack,26,100 gm,5
+Ghee,Gowardhan,gowardhan_ghee.png,600,Dairy,Ghee,Tin,8,1 ltr,0
+Moong Dal,Organic India,organic_india_moong_dal.png,125,Dal,Moong Dal,Pack,20,1 kg,0
+Meat Masala,MDH,mdh_meat_masala.png,66,Masale,Meat,Pack,12,100 gm,10
+Lal Qilla Basmati Rice,Lal Qilla,lal_qilla_basmati_rice.png,220,Grains,Chawal,Bag,18,1 kg,0
+Milk,Mother Dairy,mother_dairy_milk.png,56,Dairy,Milk,Pack,30,1 ltr,0
+Dahi,Amul,amul_dahi.png,60,Dairy,Dahi,Pack,20,400 gm,0
+Brown Rice,India Gate,india_gate_brown_rice.png,122,Grains,Chawal,Bag,12,1 kg,0
+Amul Vanilla Ice Cream,Amul,amul_vanilla_ice_cream.png,60,Ice Creams,Vanilla,Cup,15,100 ml,0
+Meat Masala,MDH,mdh_meat_masala.png,77,Masale,Meat,Pack,13,100 gm,5
+Aloo Bhujia,Haldiram's,haldirams_aloo_bhujia.png,39,Snacks,Namkeen,Pack,34,200 gm,5
+Rajma,Fortune,fortune_rajma.png,106,Dal,Rajma,Pack,21,1 kg,5
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,67,Masale,Dhaniya,Pack,37,100 gm,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,174,Oils,Mustard Oil,Bottle,17,1 ltr,0
+MDH Deggi Mirch,MDH,mdh_deggi_mirch.png,60,Masale,Mirch,Pack,35,100 gm,10
+Pav Bhaji Masala,Everest,everest_pav_bhaji_masala.png,58,Masale,Pav Bhaji,Pack,22,100 gm,5
+Fortune Masoor Malka Dal,Fortune,fortune_masoor_malka_dal.png,90,Dal,Masoor Malka Dal,Pack,15,1 kg,0
+Ghee,Patanjali,patanjali_ghee.png,551,Dairy,Ghee,Tin,17,1 ltr,0
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,180,Oils,Groundnut Oil,Bottle,10,1 ltr,0
+Jeera Powder,SDS,sds_jeera_powder.png,70,Masale,Jeera,Pack,30,100 gm,5
+Moong Dal,Organic India,organic_india_moong_dal.png,124,Dal,Moong Dal,Pack,19,1 kg,0
+Chana Dal,Fortune,fortune_chana_dal.png,72,Dal,Chana Dal,Pack,32,1 kg,0
+Meat Masala,MDH,mdh_meat_masala.png,95,Masale,Meat,Pack,15,100 gm,0
+Jeera Powder,SDS,sds_jeera_powder.png,71,Masale,Jeera,Pack,34,100 gm,5
+Chaat Masala,Catch,catch_chaat_masala.png,55,Masale,Chaat Masala,Pack,25,100 gm,0
+Harpic Toilet Cleaner,Harpic,harpic_toilet_cleaner.png,97,Cleaning,Toilet Cleaner,Bottle,15,500 ml,0
+Chaat Masala,Catch,catch_chaat_masala.png,69,Masale,Chaat Masala,Pack,25,100 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,81,Masale,Meat,Pack,7,100 gm,0
+Chaat Masala,Catch,catch_chaat_masala.png,70,Masale,Chaat Masala,Pack,26,100 gm,0
+Coca-Cola,Coca-Cola,coca_cola.png,58,Drinks,Cold Drink,Bottle,32,750 ml,0
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,58,Masale,Dhaniya,Pack,39,100 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,65,Personal Care,Toothpaste,Tube,22,100 gm,10
+Amul Vanilla Ice Cream,Amul,amul_vanilla_ice_cream.png,50,Ice Creams,Vanilla,Cup,13,100 ml,0
+Kala Chana,Organic India,organic_india_kala_chana.png,68,Dal,Kala Chana,Pack,18,1 kg,5
+Sunflower Oil,Fortune,fortune_sunflower_oil.png,145,Oils,Sunflower Oil,Pouch,31,1 ltr,5
+Basmati Chawal,Daawat,daawat_basmati_chawal.png,205,Grains,Chawal,Bag,27,1 kg,0
+Haldi Powder,SDS,sds_haldi_powder.png,46,Masale,Haldi,Pack,55,100 gm,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,160,Oils,Mustard Oil,Bottle,15,1 ltr,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,78,Personal Care,Toothpaste,Tube,27,100 gm,5
+Kitchen King Masala,Everest,everest_kitchen_king_masala.png,74,Masale,Kitchen King,Pack,20,100 gm,10
+Sabzi Masala,MDH,mdh_sabzi_masala.png,71,Masale,Sabzi,Pack,20,100 gm,5
+Brown Rice,India Gate,india_gate_brown_rice.png,120,Grains,Chawal,Bag,10,1 kg,0
+Toor Dal,Tata Sampann,tata_sampann_toor_dal.png,120,Dal,Toor Dal,Pack,25,1 kg,0
+Marie Gold Biscuit,Britannia,britannia_marie_gold_biscuit.png,25,Snacks,Biscuit,Pack,40,200 gm,0
+Butter,Amul,amul_butter.png,63,Dairy,Butter,Pack,17,100 gm,10
+Haldi Powder,SDS,sds_haldi_powder.png,40,Masale,Haldi,Pack,54,100 gm,5
+Vim Bar,Vim,vim_bar.png,10,Cleaning,Dishwash,Bar,50,100 gm,0
+Milk,Mother Dairy,mother_dairy_milk.png,53,Dairy,Milk,Pack,32,1 ltr,0
+Meat Masala,MDH,mdh_meat_masala.png,94,Masale,Meat,Pack,11,100 gm,10
+Mustard Oil,Saffola,saffola_mustard_oil.png,172,Oils,Mustard Oil,Bottle,18,1 ltr,0
+Kitchen King Masala,Everest,everest_kitchen_king_masala.png,69,Masale,Kitchen King,Pack,26,100 gm,0
+Dahi,Amul,amul_dahi.png,76,Dairy,Dahi,Pack,25,400 gm,0
+Mother Dairy Kulfi,Mother Dairy,mother_dairy_kulfi.png,30,Ice Creams,Kulfi,Stick,18,60 ml,0
+Chana Dal,Fortune,fortune_chana_dal.png,85,Dal,Chana Dal,Pack,35,1 kg,0
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,45,Masale,Dhaniya,Pack,35,100 gm,5
+Meat Masala,MDH,mdh_meat_masala.png,89,Masale,Meat,Pack,13,100 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,84,Masale,Mirch,Pack,40,100 gm,5
+Patanjali Sooji,Patanjali,patanjali_sooji.png,46,Grains,Sooji,Pack,20,500 gm,0
+Fortune Besan,Fortune,fortune_besan.png,72,Grains,Besan,Pack,21,500 gm,0
+Maggi 2-Minute Noodles,Maggi,maggi_2_minute_noodles.png,22,Ready to Eat,Noodles,Pack,54,70 gm,5
+Chana Dal,Fortune,fortune_chana_dal.png,90,Dal,Chana Dal,Pack,39,1 kg,5
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,72,Masale,Mirch,Pack,45,100 gm,10
+Basmati Chawal,Daawat,daawat_basmati_chawal.png,192,Grains,Chawal,Bag,25,1 kg,0
+Haldi Powder,SDS,sds_haldi_powder.png,54,Masale,Haldi,Pack,49,100 gm,10
+Aashirvaad Atta,Aashirvaad,aashirvaad_atta.png,60,Grains,Aata,Bag,25,1 kg,0
+Ghee,Patanjali,patanjali_ghee.png,560,Dairy,Ghee,Tin,8,1 ltr,0
+Moong Dal,Organic India,organic_india_moong_dal.png,99,Dal,Moong Dal,Pack,25,1 kg,5
+Patanjali Dant Kanti,Patanjali,patanjali_dant_kanti.png,45,Personal Care,Toothpaste,Tube,18,100 gm,0
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,192,Oils,Groundnut Oil,Bottle,9,1 ltr,5
+Frooti,Parle Agro,parle_agro_frooti.png,27,Drinks,Mango Drink,Tetra Pak,32,160 ml,0
+Amul Dark Chocolate,Amul,amul_dark_chocolate.png,102,Chocolates,Dark Chocolate,Bar,16,150 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,88,Masale,Mirch,Pack,37,100 gm,10
+Garam Masala,MDH,mdh_garam_masala.png,79,Masale,Garam Masala,Pack,31,100 gm,5
+Haldi Powder,SDS,sds_haldi_powder.png,37,Masale,Haldi,Pack,52,100 gm,5
+Dhaniya Powder,SDS,sds_dhaniya_powder.png,67,Masale,Dhaniya,Pack,32,100 gm,10
+Butter,Amul,amul_butter.png,67,Dairy,Butter,Pack,14,100 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,72,Masale,Mirch,Pack,41,100 gm,0
+Moong Dal,Organic India,organic_india_moong_dal.png,136,Dal,Moong Dal,Pack,18,1 kg,0
+Rajma,Fortune,fortune_rajma.png,124,Dal,Rajma,Pack,19,1 kg,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,165,Oils,Mustard Oil,Bottle,18,1 ltr,5
+Aloo Bhujia,Haldiram's,haldirams_aloo_bhujia.png,31,Snacks,Namkeen,Pack,29,200 gm,5
+Paneer,Mother Dairy,mother_dairy_paneer.png,80,Dairy,Paneer,Pack,21,200 gm,10
+Kala Chana,Organic India,organic_india_kala_chana.png,80,Dal,Kala Chana,Pack,18,1 kg,0
+Sabzi Masala,MDH,mdh_sabzi_masala.png,65,Masale,Sabzi,Pack,20,100 gm,5
+Chana Dal,Fortune,fortune_chana_dal.png,82,Dal,Chana Dal,Pack,37,1 kg,0
+Ghee,Patanjali,patanjali_ghee.png,549,Dairy,Ghee,Tin,7,1 ltr,5
+MDH Deggi Mirch,MDH,mdh_deggi_mirch.png,70,Masale,Mirch,Pack,30,100 gm,5
+Sabzi Masala,MDH,mdh_sabzi_masala.png,69,Masale,Sabzi,Pack,21,100 gm,0
+Sunfeast Dark Fantasy,Sunfeast,sunfeast_dark_fantasy.png,35,Snacks,Biscuit,Pack,20,75 gm,0
+Aloo Bhujia,Haldiram's,haldirams_aloo_bhujia.png,40,Snacks,Namkeen,Pack,30,200 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,57,Masale,Meat,Pack,14,100 gm,10
+Maggi 2-Minute Noodles,Maggi,maggi_2_minute_noodles.png,14,Ready to Eat,Noodles,Pack,50,70 gm,0
+Aata,Fortune,fortune_aata.png,54,Grains,Aata,Bag,26,1 kg,5
+Garam Masala,MDH,mdh_garam_masala.png,70,Masale,Garam Masala,Pack,35,100 gm,10
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,52,Masale,Dhaniya,Pack,32,100 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,38,Masale,Haldi,Pack,55,100 gm,0
+Aloo Bhujia,Haldiram's,haldirams_aloo_bhujia.png,35,Snacks,Namkeen,Pack,36,200 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,42,Masale,Haldi,Pack,46,100 gm,15
+Butter,Amul,amul_butter.png,62,Dairy,Butter,Pack,13,100 gm,10
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,63,Masale,Dhaniya,Pack,41,100 gm,5
+Colgate Strong Teeth,Colgate,colgate_strong_teeth.png,55,Personal Care,Toothpaste,Tube,25,100 gm,0
+Kitchen King Masala,Everest,everest_kitchen_king_masala.png,89,Masale,Kitchen King,Pack,27,100 gm,0
+Butter,Amul,amul_butter.png,71,Dairy,Butter,Pack,17,100 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,61,Personal Care,Toothpaste,Tube,24,100 gm,0
+Dairy Milk Chocolate,Cadbury,cadbury_dairy_milk_chocolate.png,40,Chocolates,Milk Chocolate,Bar,30,23 gm,0
+Cheese,Amul,amul_cheese.png,130,Dairy,Cheese,Pack,13,200 gm,0
+Kala Chana,Organic India,organic_india_kala_chana.png,78,Dal,Kala Chana,Pack,20,1 kg,5
+Basmati Chawal,India Gate,india_gate_basmati_chawal.png,190,Grains,Chawal,Bag,22,1 kg,10
+Sabzi Masala,MDH,mdh_sabzi_masala.png,59,Masale,Sabzi,Pack,26,100 gm,5
+Britannia Bourbon,Britannia,britannia_bourbon.png,25,Snacks,Biscuit,Pack,30,100 gm,0
+Refined Oil,Fortune,fortune_refined_oil.png,125,Oils,Refined Oil,Pouch,18,1 ltr,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,49,Personal Care,Toothpaste,Tube,22,100 gm,0
+Garam Masala,MDH,mdh_garam_masala.png,74,Masale,Garam Masala,Pack,30,100 gm,10
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,54,Personal Care,Toothpaste,Tube,27,100 gm,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,71,Personal Care,Toothpaste,Tube,24,100 gm,5
+Haldi Powder,SDS,sds_haldi_powder.png,43,Masale,Haldi,Pack,58,100 gm,0
+Chana Dal,Fortune,fortune_chana_dal.png,80,Dal,Chana Dal,Pack,30,1 kg,0
+Ghee,Gowardhan,gowardhan_ghee.png,588,Dairy,Ghee,Tin,8,1 ltr,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,171,Oils,Mustard Oil,Bottle,16,1 ltr,0
+Paneer,Mother Dairy,mother_dairy_paneer.png,82,Dairy,Paneer,Pack,12,200 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,49,Personal Care,Toothpaste,Tube,28,100 gm,0
+Garam Masala,MDH,mdh_garam_masala.png,67,Masale,Garam Masala,Pack,31,100 gm,10
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,71,Personal Care,Toothpaste,Tube,25,100 gm,15
+Sabzi Masala,MDH,mdh_sabzi_masala.png,73,Masale,Sabzi,Pack,18,100 gm,10
+Moong Dal,Organic India,organic_india_moong_dal.png,126,Dal,Moong Dal,Pack,24,1 kg,0
+Sabzi Masala,MDH,mdh_sabzi_masala.png,51,Masale,Sabzi,Pack,27,100 gm,5
+Meat Masala,MDH,mdh_meat_masala.png,85,Masale,Meat,Pack,13,100 gm,10
+Parle Monaco Zeera,Parle,parle_monaco_zeera.png,20,Snacks,Biscuit,Pack,40,75 gm,0
+Tata Salt,Tata,tata_salt.png,18,Essentials,Salt,Pack,53,1 kg,10
+Patanjali Dant Kanti,Patanjali,patanjali_dant_kanti.png,71,Personal Care,Toothpaste,Tube,13,100 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,94,Masale,Meat,Pack,16,100 gm,0
+Garam Masala,MDH,mdh_garam_masala.png,70,Masale,Garam Masala,Pack,30,100 gm,10
+Cheese,Amul,amul_cheese.png,120,Dairy,Cheese,Pack,12,200 gm,0
+Cheese,Amul,amul_cheese.png,132,Dairy,Cheese,Pack,11,200 gm,5
+Tata Salt,Tata,tata_salt.png,25,Essentials,Salt,Pack,50,1 kg,0
+Kala Chana,Organic India,organic_india_kala_chana.png,74,Dal,Kala Chana,Pack,14,1 kg,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,168,Oils,Mustard Oil,Bottle,22,1 ltr,5
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,71,Masale,Mirch,Pack,37,100 gm,0
+Slice Mango Drink,Slice,slice_mango_drink.png,30,Drinks,Mango Drink,Bottle,25,600 ml,0
+Aloo Bhujia,Haldiram's,haldirams_aloo_bhujia.png,41,Snacks,Namkeen,Pack,30,200 gm,0
+Haldi Powder,SDS,sds_haldi_powder.png,49,Masale,Haldi,Pack,48,100 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,78,Masale,Meat,Pack,5,100 gm,5
+Dhaniya Powder,SDS,sds_dhaniya_powder.png,58,Masale,Dhaniya,Pack,39,100 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,78,Personal Care,Toothpaste,Tube,17,100 gm,10
+Chaat Masala,Catch,catch_chaat_masala.png,55,Masale,Chaat Masala,Pack,25,100 gm,0
+Fortune Besan,Fortune,fortune_besan.png,65,Grains,Besan,Pack,22,500 gm,0
+Ghee,Gowardhan,gowardhan_ghee.png,592,Dairy,Ghee,Tin,8,1 ltr,0
+Everest Shahi Paneer Masala,Everest,everest_shahi_paneer_masala.png,79,Masale,Paneer Masala,Pack,18,100 gm,0
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,67,Masale,Dhaniya,Pack,36,100 gm,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,161,Oils,Mustard Oil,Bottle,22,1 ltr,0
+Rajma,Fortune,fortune_rajma.png,120,Dal,Rajma,Pack,19,1 kg,0
+Aashirvaad Sugar,Aashirvaad,aashirvaad_sugar.png,65,Essentials,Sugar,Pack,44,1 kg,0
+Refined Oil,Fortune,fortune_refined_oil.png,125,Oils,Refined Oil,Pouch,21,1 ltr,5
+Tata Tea Gold,Tata,tata_tea_gold.png,126,Beverages,Tea,Pack,25,250 gm,5
+Moong Dal,Organic India,organic_india_moong_dal.png,110,Dal,Moong Dal,Pack,20,1 kg,0
+Ghee,Patanjali,patanjali_ghee.png,548,Dairy,Ghee,Tin,15,1 ltr,0
+Paneer,Mother Dairy,mother_dairy_paneer.png,89,Dairy,Paneer,Pack,21,200 gm,10
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,89,Personal Care,Toothpaste,Tube,18,100 gm,10
+Dhaniya Powder,SDS,sds_dhaniya_powder.png,55,Masale,Dhaniya,Pack,37,100 gm,10
+Patanjali Dant Kanti,Patanjali,patanjali_dant_kanti.png,65,Personal Care,Toothpaste,Tube,15,100 gm,0
+Dahi,Amul,amul_dahi.png,52,Dairy,Dahi,Pack,16,400 gm,0
+Cheese,Amul,amul_cheese.png,129,Dairy,Cheese,Pack,13,200 gm,0
+Marie Gold Biscuit,Britannia,britannia_marie_gold_biscuit.png,45,Snacks,Biscuit,Pack,40,200 gm,0
+Frooti,Parle Agro,parle_agro_frooti.png,20,Drinks,Mango Drink,Tetra Pak,35,160 ml,0
+Chana Dal,Fortune,fortune_chana_dal.png,80,Dal,Chana Dal,Pack,30,1 kg,0
+MTR Poha,MTR,mtr_poha.png,50,Ready to Eat,Poha,Pack,20,60 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,67,Masale,Mirch,Pack,43,100 gm,0
+Cheese,Amul,amul_cheese.png,120,Dairy,Cheese,Pack,15,200 gm,0
+Nutella Hazelnut Spread,Nutella,nutella_hazelnut_spread.png,350,Sauces & Spreads,Spread,Jar,10,180 gm,0
+Fortune Besan,Fortune,fortune_besan.png,74,Grains,Besan,Pack,18,500 gm,0
+Bhujia Sev,Bikaji,bikaji_bhujia_sev.png,40,Snacks,Namkeen,Pack,22,200 gm,5
+Tata Tea Gold,Tata,tata_tea_gold.png,125,Beverages,Tea,Pack,22,250 gm,0
+Sunflower Oil,Fortune,fortune_sunflower_oil.png,140,Oils,Sunflower Oil,Pouch,20,1 ltr,0
+Monaco Biscuit,Parle,parle_monaco_biscuit.png,20,Snacks,Biscuit,Pack,40,75 gm,0
+Brown Rice,India Gate,india_gate_brown_rice.png,133,Grains,Chawal,Bag,17,1 kg,0
+Dahi,Amul,amul_dahi.png,58,Dairy,Dahi,Pack,19,400 gm,0
+Amul Taaza Milk,Amul,amul_taaza_milk.png,53,Dairy,Milk,Pack,31,1 ltr,5
+Chana Dal,Fortune,fortune_chana_dal.png,89,Dal,Chana Dal,Pack,36,1 kg,0
+Chana Dal,Fortune,fortune_chana_dal.png,80,Dal,Chana Dal,Pack,32,1 kg,0
+Lays Cream & Onion,Lays,lays_cream_onion.png,20,Snacks,Chips,Pack,40,52 gm,0
+Patanjali Sooji,Patanjali,patanjali_sooji.png,51,Grains,Sooji,Pack,21,500 gm,0
+Fortune Besan,Fortune,fortune_besan.png,70,Grains,Besan,Pack,20,500 gm,0
+Aashirvaad Sugar,Aashirvaad,aashirvaad_sugar.png,45,Essentials,Sugar,Pack,40,1 kg,0
+Surf Excel,Surf Excel,surf_excel.png,60,Cleaning,Detergent,Pack,30,500 gm,0
+Urad Dal,Tata Sampann,tata_sampann_urad_dal.png,110,Dal,Urad Dal,Pack,17,1 kg,0
+Sunflower Oil,Fortune,fortune_sunflower_oil.png,145,Oils,Sunflower Oil,Pouch,28,1 ltr,10
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,205,Oils,Groundnut Oil,Bottle,13,1 ltr,0
+Moong Dal,Organic India,organic_india_moong_dal.png,135,Dal,Moong Dal,Pack,17,1 kg,0
+Garam Masala,MDH,mdh_garam_masala.png,67,Masale,Garam Masala,Pack,30,100 gm,15
+Dahi,Amul,amul_dahi.png,62,Dairy,Dahi,Pack,19,400 gm,0
+Sabzi Masala,MDH,mdh_sabzi_masala.png,58,Masale,Sabzi,Pack,23,100 gm,5
+Sunflower Oil,Fortune,fortune_sunflower_oil.png,134,Oils,Sunflower Oil,Pouch,23,1 ltr,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,64,Personal Care,Toothpaste,Tube,23,100 gm,0
+Garam Masala,MDH,mdh_garam_masala.png,78,Masale,Garam Masala,Pack,33,100 gm,15
+Sunflower Oil,Fortune,fortune_sunflower_oil.png,133,Oils,Sunflower Oil,Pouch,29,1 ltr,0
+Parle-G Biscuit,Parle,parle_g_biscuit.png,10,Snacks,Biscuit,Pack,50,100 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,85,Masale,Mirch,Pack,35,100 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,80,Masale,Meat,Pack,10,100 gm,5
+Tata Tea Gold,Tata,tata_tea_gold.png,127,Beverages,Tea,Pack,19,250 gm,5
+Aloo Bhujia,Haldiram's,haldirams_aloo_bhujia.png,30,Snacks,Namkeen,Pack,38,200 gm,5
+Brown Rice,India Gate,india_gate_brown_rice.png,124,Grains,Chawal,Bag,13,1 kg,0
+Butter,Amul,amul_butter.png,85,Dairy,Butter,Pack,16,100 gm,0
+Kala Chana,Organic India,organic_india_kala_chana.png,76,Dal,Kala Chana,Pack,17,1 kg,0
+Urad Dal,Tata Sampann,tata_sampann_urad_dal.png,107,Dal,Urad Dal,Pack,16,1 kg,0
+Chana Dal,Fortune,fortune_chana_dal.png,74,Dal,Chana Dal,Pack,32,1 kg,5
+Paneer,Mother Dairy,mother_dairy_paneer.png,90,Dairy,Paneer,Pack,15,200 gm,0
+Fortune Besan,Fortune,fortune_besan.png,63,Grains,Besan,Pack,24,500 gm,5
+Dahi,Amul,amul_dahi.png,60,Dairy,Dahi,Pack,19,400 gm,0
+Meat Masala,MDH,mdh_meat_masala.png,66,Masale,Meat,Pack,14,100 gm,10
+Ghee,Gowardhan,gowardhan_ghee.png,579,Dairy,Ghee,Tin,12,1 ltr,0
+Sunflower Oil,Fortune,fortune_sunflower_oil.png,139,Oils,Sunflower Oil,Pouch,30,1 ltr,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,50,Personal Care,Toothpaste,Tube,20,100 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,76,Masale,Mirch,Pack,44,100 gm,0
+Fortune Mustard Oil,Fortune,fortune_mustard_oil.png,160,Oils,Mustard Oil,Bottle,15,1 ltr,0
+Patanjali Sooji,Patanjali,patanjali_sooji.png,40,Grains,Sooji,Pack,18,500 gm,0
+Ghee,Gowardhan,gowardhan_ghee.png,589,Dairy,Ghee,Tin,6,1 ltr,0
+Toor Dal,Tata Sampann,tata_sampann_toor_dal.png,128,Dal,Toor Dal,Pack,28,1 kg,5
+Chana Dal,Fortune,fortune_chana_dal.png,99,Dal,Chana Dal,Pack,43,1 kg,5
+Rajma,Fortune,fortune_rajma.png,114,Dal,Rajma,Pack,20,1 kg,0
+Chana Dal,Fortune,fortune_chana_dal.png,75,Dal,Chana Dal,Pack,31,1 kg,0
+Patanjali Sooji,Patanjali,patanjali_sooji.png,61,Grains,Sooji,Pack,23,500 gm,0
+Basmati Chawal,India Gate,india_gate_basmati_chawal.png,192,Grains,Chawal,Bag,19,1 kg,10
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,55,Masale,Dhaniya,Pack,32,100 gm,0
+Lays Classic Salted,Lays,lays_classic_salted.png,20,Snacks,Chips,Pack,40,52 gm,0
+Moong Dal,Organic India,organic_india_moong_dal.png,112,Dal,Moong Dal,Pack,21,1 kg,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,60,Masale,Mirch,Pack,40,100 gm,5
+Fortune Besan,Fortune,fortune_besan.png,62,Grains,Besan,Pack,24,500 gm,0
+Dhaniya Powder,SDS,sds_dhaniya_powder.png,45,Masale,Dhaniya,Pack,35,100 gm,5
+Meat Masala,MDH,mdh_meat_masala.png,71,Masale,Meat,Pack,10,100 gm,10
+Aloo Bhujia,Haldiram's,haldirams_aloo_bhujia.png,37,Snacks,Namkeen,Pack,32,200 gm,0
+Milk,Mother Dairy,mother_dairy_milk.png,53,Dairy,Milk,Pack,35,1 ltr,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,44,Personal Care,Toothpaste,Tube,25,100 gm,5
+Lays Classic Salted,Lays,lays_classic_salted.png,19,Snacks,Chips,Pack,45,52 gm,0
+Brown Rice,India Gate,india_gate_brown_rice.png,118,Grains,Chawal,Bag,15,1 kg,0
+Basmati Chawal,Daawat,daawat_basmati_chawal.png,200,Grains,Chawal,Bag,22,1 kg,5
+Urad Dal,Tata Sampann,tata_sampann_urad_dal.png,100,Dal,Urad Dal,Pack,18,1 kg,0
+Masoor Dal,Patanjali,patanjali_masoor_dal.png,90,Dal,Masoor Dal,Pack,15,1 kg,0
+Dahi,Amul,amul_dahi.png,74,Dairy,Dahi,Pack,16,400 gm,0
+Moong Dal,Organic India,organic_india_moong_dal.png,115,Dal,Moong Dal,Pack,17,1 kg,0
+Haldi Powder,SDS,sds_haldi_powder.png,40,Masale,Haldi,Pack,50,100 gm,5
+Real Mixed Fruit Juice,Real,real_mixed_fruit_juice.png,110,Drinks,Juice,Tetra Pak,20,1 ltr,0
+Pepsi,Pepsi,pepsi.png,40,Drinks,Cold Drink,Bottle,28,750 ml,0
+Cheese,Amul,amul_cheese.png,122,Dairy,Cheese,Pack,9,200 gm,5
+Patanjali Sooji,Patanjali,patanjali_sooji.png,43,Grains,Sooji,Pack,18,500 gm,0
+Pav Bhaji Masala,Everest,everest_pav_bhaji_masala.png,56,Masale,Pav Bhaji,Pack,19,100 gm,0
+Tata Tea Gold,Tata,tata_tea_gold.png,120,Beverages,Tea,Pack,20,250 gm,0
+Brown Rice,India Gate,india_gate_brown_rice.png,124,Grains,Chawal,Bag,7,1 kg,5
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,95,Masale,Mirch,Pack,32,100 gm,5
+Chana Dal,Fortune,fortune_chana_dal.png,76,Dal,Chana Dal,Pack,32,1 kg,0
+Aata,Fortune,fortune_aata.png,49,Grains,Aata,Bag,18,1 kg,0
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,215,Oils,Groundnut Oil,Bottle,14,1 ltr,5
+Paneer,Mother Dairy,mother_dairy_paneer.png,112,Dairy,Paneer,Pack,17,200 gm,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,67,Personal Care,Toothpaste,Tube,26,100 gm,5
+Toor Dal,Tata Sampann,tata_sampann_toor_dal.png,137,Dal,Toor Dal,Pack,31,1 kg,0
+Milk,Mother Dairy,mother_dairy_milk.png,55,Dairy,Milk,Pack,32,1 ltr,5
+Haldi Powder,SDS,sds_haldi_powder.png,57,Masale,Haldi,Pack,54,100 gm,5
+Basmati Chawal,India Gate,india_gate_basmati_chawal.png,182,Grains,Chawal,Bag,21,1 kg,5
+Pav Bhaji Masala,Everest,everest_pav_bhaji_masala.png,62,Masale,Pav Bhaji,Pack,23,100 gm,0
+Garam Masala,MDH,mdh_garam_masala.png,79,Masale,Garam Masala,Pack,31,100 gm,10
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,44,Personal Care,Toothpaste,Tube,27,100 gm,5
+Red Label Tea,Brooke Bond,brooke_bond_red_label_tea.png,110,Beverages,Tea,Pack,18,250 gm,0
+Tata Salt,Tata,tata_salt.png,34,Essentials,Salt,Pack,55,1 kg,0
+Chana Dal,Fortune,fortune_chana_dal.png,83,Dal,Chana Dal,Pack,27,1 kg,5
+Bingo Mad Angles,Bingo,bingo_mad_angles.png,15,Snacks,Chips,Pack,35,50 gm,0
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,57,Personal Care,Toothpaste,Tube,20,100 gm,5
+Paneer,Mother Dairy,mother_dairy_paneer.png,90,Dairy,Paneer,Pack,15,200 gm,0
+Basmati Chawal,India Gate,india_gate_basmati_chawal.png,190,Grains,Chawal,Bag,15,1 kg,5
+Dhaniya Powder,Everest,everest_dhaniya_powder.png,72,Masale,Dhaniya,Pack,37,100 gm,0
+Milk,Mother Dairy,mother_dairy_milk.png,61,Dairy,Milk,Pack,28,1 ltr,0
+Sunflower Oil,Fortune,fortune_sunflower_oil.png,143,Oils,Sunflower Oil,Pouch,33,1 ltr,10
+Everest Shahi Paneer Masala,Everest,everest_shahi_paneer_masala.png,94,Masale,Paneer Masala,Pack,23,100 gm,5
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,69,Masale,Mirch,Pack,46,100 gm,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,165,Oils,Mustard Oil,Bottle,17,1 ltr,0
+Vim Bar,Vim,vim_bar.png,36,Cleaning,Dishwash,Bar,62,100 gm,0
+Milk,Mother Dairy,mother_dairy_milk.png,65,Dairy,Milk,Pack,31,1 ltr,0
+Sabzi Masala,MDH,mdh_sabzi_masala.png,68,Masale,Sabzi,Pack,21,100 gm,5
+Groundnut Oil,Dhara,dhara_groundnut_oil.png,178,Oils,Groundnut Oil,Bottle,8,1 ltr,0
+Haldi Powder,SDS,sds_haldi_powder.png,36,Masale,Haldi,Pack,48,100 gm,0
+Coca-Cola,Coca-Cola,coca_cola.png,52,Drinks,Cold Drink,Bottle,28,750 ml,0
+Moong Dal Namkeen,Haldiram's,haldirams_moong_dal_namkeen.png,52,Snacks,Namkeen,Pack,30,200 gm,0
+Aashirvaad Atta,Aashirvaad,aashirvaad_atta.png,55,Grains,Aata,Bag,25,1 kg,0
+5 Star,Cadbury,cadbury_5_star.png,25,Chocolates,Caramel Chocolate,Bar,20,22 gm,0
+Pav Bhaji Masala,Everest,everest_pav_bhaji_masala.png,67,Masale,Pav Bhaji,Pack,20,100 gm,5
+Bingo Mad Angles,Bingo,bingo_mad_angles.png,20,Snacks,Chips,Pack,30,50 gm,0
+Pav Bhaji Masala,Everest,everest_pav_bhaji_masala.png,55,Masale,Pav Bhaji,Pack,25,100 gm,10
+Chana Dal,Fortune,fortune_chana_dal.png,78,Dal,Chana Dal,Pack,29,1 kg,0
+Sona Masoori Chawal,India Gate,india_gate_sona_masoori_chawal.png,90,Grains,Chawal,Bag,15,1 kg,0
+Mustard Oil,Saffola,saffola_mustard_oil.png,163,Oils,Mustard Oil,Bottle,17,1 ltr,5
+Fortune Besan,Fortune,fortune_besan.png,70,Grains,Besan,Pack,27,500 gm,5
+Lays Magic Masala,Lays,lays_magic_masala.png,34,Snacks,Chips,Pack,37,52 gm,0
+Lal Mirch Powder,SDS,sds_lal_mirch_powder.png,74,Masale,Mirch,Pack,44,100 gm,10
+Frooti,Parle Agro,parle_agro_frooti.png,33,Drinks,Mango Drink,Tetra Pak,37,160 ml,0
+MTR Poha,MTR,mtr_poha.png,52,Ready to Eat,Poha,Pack,25,60 gm,0
+Cheese,Amul,amul_cheese.png,123,Dairy,Cheese,Pack,12,200 gm,0
+Vim Bar,Vim,vim_bar.png,11,Cleaning,Dishwash,Bar,54,100 gm,5
+Garam Masala,MDH,mdh_garam_masala.png,77,Masale,Garam Masala,Pack,38,100 gm,20
+Dahi,Amul,amul_dahi.png,66,Dairy,Dahi,Pack,20,400 gm,5
+Dabur Red Toothpaste,Dabur,dabur_red_toothpaste.png,48,Personal Care,Toothpaste,Tube,30,100 gm,0
+Ghee,Patanjali,patanjali_ghee.png,554,Dairy,Ghee,Tin,12,1 ltr,5
+Pav Bhaji Masala,Everest,everest_pav_bhaji_masala.png,60,Masale,Pav Bhaji,Pack,20,100 gm,5
+Vim Bar,Vim,vim_bar.png,18,Cleaning,Dishwash,Bar,54,100 gm,0
+Sabzi Masala,MDH,mdh_sabzi_masala.png,54,Masale,Sabzi,Pack,24,100 gm,0

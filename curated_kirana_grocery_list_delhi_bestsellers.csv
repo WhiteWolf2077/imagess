@@ -1,0 +1,23 @@
+name,brand,imageUrl,price,category,sub_category,type,stock,unit,discount
+Aashirvaad Whole Wheat Atta,Aashirvaad,aashirvaad_whole_wheat_atta.png,55,Grains,Aata,Bag,25,1 kg,0
+Aashirvaad Whole Wheat Atta,Aashirvaad,aashirvaad_whole_wheat_atta_5kg.png,260,Grains,Aata,Bag,20,5 kg,0
+Tata Sampann Toor Dal,Tata Sampann,tata_sampann_toor_dal.png,120,Dal,Toor Dal,Pack,20,1 kg,0
+Organic India Moong Dal,Organic India,organic_india_moong_dal.png,130,Dal,Moong Dal,Pack,10,1 kg,0
+Saffola Gold Oil,Saffola,saffola_gold_oil.png,180,Oils,Blended Oil,Pouch,15,1 ltr,0
+Bikano Navratan Mix,Bikano,bikano_navratan_mix.png,50,Snacks,Namkeen,Pack,20,200 gm,0
+Lays Magic Masala,Lays,lays_magic_masala.png,20,Snacks,Chips,Pack,40,52 gm,0
+Kurkure Masala Munch,Kurkure,kurkure_masala_munch.png,20,Snacks,Namkeen,Pack,35,55 gm,0
+Parle-G Biscuit,Parle,parle_g_biscuit.png,22,Snacks,Biscuit,Pack,55,100 gm,0
+Hide & Seek Chocolate Chip Biscuit,Parle,parle_hide_seek_chocolate_chip_biscuit.png,30,Snacks,Biscuit,Pack,20,120 gm,0
+Unibic Choco Chip Cookies,Unibic,unibic_choco_chip_cookies.png,40,Snacks,Cookies,Pack,15,75 gm,0
+Tata Tea Gold,Tata,tata_tea_gold.png,124,Beverages,Tea,Pack,21,250 gm,0
+Nescafe Classic,Nescafe,nescafe_classic.png,157,Beverages,Coffee,Jar,10,50 gm,0
+Bournvita Health Drink,Cadbury,cadbury_bournvita.png,220,Beverages,Health Drink,Jar,15,500 gm,0
+Lipton Green Tea,Lipton,lipton_green_tea.png,120,Beverages,Green Tea,Box,15,25 bags,0
+Tang Orange Drink Mix,Tang,tang_orange_drink_mix.png,35,Drinks,Drink Mix,Pack,20,125 gm,0
+Haldiram's Rasgulla,Haldiram's,haldirams_rasgulla.png,120,Sweets,Rasgulla,Tin,10,1 kg,0
+Bikano Gulab Jamun,Bikano,bikano_gulab_jamun.png,120,Sweets,Gulab Jamun,Tin,10,1 kg,0
+Tata Salt,Tata,tata_salt.png,32,Essentials,Salt,Pack,52,1 kg,0
+Aashirvaad Iodized Salt,Aashirvaad,aashirvaad_iodized_salt.png,25,Essentials,Salt,Pack,30,1 kg,0
+Aashirvaad Sugar,Aashirvaad,aashirvaad_sugar.png,55,Essentials,Sugar,Pack,39,1 kg,0
+Sugar Free Gold Tablets,Sugar Free,sugar_free_gold_tablets.png,70,Health,Sweetener,Pack,20,100 tablets,0
